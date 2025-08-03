@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**cha861/cha861** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hey there 👋 I'm Charitha Reddy
 
 🎯 3rd Year B.Tech CSE Student | Aspiring Full Stack Developer  
