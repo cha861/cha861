@@ -24,4 +24,4 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-in%20progress-informational?style=flat&logo=web)](https://github.com/cha861/html_practice)
 
 - 🌱 I’m currently learning Frontend development..
--planning to become a freelancer just stuck with how to start it practically
+-planning to become a freelancer 
