@@ -11,7 +11,7 @@
 - HTML5, CSS3, JavaScript
 - Python (OOPs & scripting)
 - Git, GitHub
-- Working toward React, MongoDB, Node.js
+- Working toward React.js
 
 ---
 
