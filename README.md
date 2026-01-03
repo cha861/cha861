@@ -18,7 +18,8 @@
 
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cha861&show_icons=true&theme=radical&v=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cha861&show_icons=true&theme=radical&cache_seconds=1800)
+
 
 ---
 
