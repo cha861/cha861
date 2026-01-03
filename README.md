@@ -18,7 +18,7 @@
 
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cha861&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-ah0wvesop-cha861s-projects.vercel.app/api?username=cha861&show_icons=true&theme=radical)
 
 
 
