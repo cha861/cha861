@@ -1,38 +1,66 @@
-## Hey there 👋 I'm Charitha Reddy
+# Hey there 👋 I'm Charitha Reddy
 
-🎓 3rd Year B.Tech CSE Student
-💻 Aspiring Full Stack Developer
+🎓 4th Year B.Tech Computer Science Student  
+💻 Aspiring Full Stack Developer | AI/ML Enthusiast  
 
-I’m passionate about building clean, responsive, and user‑friendly web interfaces. I enjoy solving frontend challenges and continuously improving my development skills by building real‑world projects.
+---
 
-###  What I’m Working On
+## 🚀 About Me
+I build clean, responsive, and user-friendly web interfaces.  
+I enjoy solving frontend challenges and I'm currently exploring how AI can improve real-world workflows.
 
-🌱 Learning JavaScript, OOP in Python, and DBMS
+---
 
-🛠️ Building a YouTube Clone and a Personal Portfolio Website
+## 🌱 What I'm Working On
+- Building responsive web pages  
+- Exploring AI tools for efficient workflows  
+- Learning Machine Learning concepts  
 
-🎯 Sharpening my skills in Frontend Development
+---
 
-### Tech Stack
+## 🛠️ Tech Stack
 
-Frontend: HTML5, CSS3, JavaScript
+### Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
 
-Programming: Python (OOP & scripting)
+### Frameworks & Libraries
+- Tailwind CSS  
+- React.js  
 
-Tools: Git, GitHub
+### Programming
+- Python  
 
-Next Up: React.js
+### Tools
+- Git  
+- GitHub  
 
-### Interests
+---
 
-Clean UI & responsive layouts
+## 🎯 Next Up
+- Exploring Machine Learning models  
+- Applying AI/ML concepts in real-world projects  
 
-Frontend problem‑solving
+---
 
-Turning ideas into interactive web experiences
+## 📌 Projects
+🚧 Currently updating my portfolio with projects  
+- Portfolio Website (Live, but under improvement)
 
-### Connect With Me
+---
 
-🔗 Portfolio (in progress): View here
+## 🎨 Interests
+- Clean UI & responsive design  
+- Frontend problem-solving  
+- Turning ideas into interactive web experiences  
+- AI-powered development workflows  
+
+---
+
+## 🔗 Connect With Me
+- 🌐 Portfolio: (Add your link here)  
+
+---
 
 ✨ Always open to learning, collaborating, and growing as a developer.
