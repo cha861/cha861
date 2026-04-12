@@ -59,7 +59,7 @@ I enjoy solving frontend challenges and I'm currently exploring how AI can impro
 ---
 
 ## 🔗 Connect With Me
-- 🌐 Portfolio: (Add your link here)  
+- 🌐 Portfolio: itscharitha.netlify.app 
 
 ---
 
