@@ -92,7 +92,18 @@ My personal portfolio — built to showcase my work as it grows.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cha861&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
----
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/cha861/cha861/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/cha861/cha861/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/cha861/cha861/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ### 🏆 Achievements
 
