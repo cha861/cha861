@@ -97,7 +97,9 @@ My personal portfolio — built to showcase my work as it grows.
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cha861&theme=tokyonight&no-frame=true&column=4&margin-w=10" alt="" />
+  <a href="https://github.com/users/cha861/achievements/pull-shark">
+    <img src="https://img.shields.io/badge/Pull%20Shark-Achieved-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Achievement">
+  </a>
 </p>
 
 ---
