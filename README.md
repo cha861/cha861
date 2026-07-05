@@ -97,7 +97,7 @@ My personal portfolio — built to showcase my work as it grows.
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cha861&theme=tokyonight&no-frame=true&column=4&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cha861&theme=tokyonight&no-frame=true&column=4&margin-w=10" alt="" />
 </p>
 
 ---
