@@ -81,7 +81,7 @@ My personal portfolio — built to showcase my work as it grows.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cha861&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="" height="165"/>
-    <img src=src="https://streak-stats.demolab.com?user=cha861&theme=tokyonight&hide_border=true" alt="GitHub Streak"height="165"/>
+    <img src="https://streak-stats.demolab.com?user=cha861&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
